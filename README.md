@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhim</h1>
-<h3 align="center">A passionate Coder from Nepal</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhimprasadrajbanshi" alt="bhimprasadrajbanshi" /></a> </p>
+<h3 align="center">A passionate Coder </h3>
 
 - 🔭 I’m currently working on **Uncovering the Secret to Happiness**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhimprasadrajbanshi" alt="bhimprasadrajbanshi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
