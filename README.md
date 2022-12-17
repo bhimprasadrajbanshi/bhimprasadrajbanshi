@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhim</h1>
 <h3 align="center">A passionate Coder from Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/104766628/208243102-7caa672c-297b-4cc0-8614-7d7b187b618f.png">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/104766628/208243102-7caa672c-297b-4cc0-8614-7d7b187b618f.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhimprasadrajbanshi" alt="bhimprasadrajbanshi" /></a> </p>
 
