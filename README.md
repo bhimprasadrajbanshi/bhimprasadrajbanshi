@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhim</h1>
+<h1 align="center">Hi 👋, I'm Bhim </h1>
 <h3 align="center">A passionate Coder </h3>
 
 - 🔭 I’m currently working on **Uncovering the Secret to Happiness**
